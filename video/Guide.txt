@@ -1,0 +1,1 @@
+To add a video, first put the desired videos in the current folder and then go to the index.html file, go to the HOME comment and put the address of your videos in the specified field.
